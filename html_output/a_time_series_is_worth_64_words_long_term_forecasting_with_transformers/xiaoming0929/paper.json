@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "paperName": "a_time_series_is_worth_64_words_long_term_forecasting_with_transformers",
+  "title": "A Time Series is Worth 64 Words: Long-term Forecasting with Transformers",
+  "authors": [],
+  "year": null,
+  "venue": "",
+  "paperUrl": "https://arxiv.org/abs/2211.14730",
+  "participants": [
+    {
+      "name": "xiaoming",
+      "github": "dmtl11"
+    }
+  ],
+  "topics": [],
+  "skillVersion": "1.4.0",
+  "status": "review",
+  "entry": "index.html",
+  "version": "xiaoming0929",
+  "versionDate": "2026-09-29"
+}
